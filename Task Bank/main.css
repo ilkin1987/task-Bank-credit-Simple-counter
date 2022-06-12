@@ -1,0 +1,17 @@
+body{
+    background-color: cadetblue;
+}
+
+
+
+h3,h5{
+    text-align: center;
+  
+}
+
+form>span{
+    border-top: thin solid black;
+    border-bottom: thin solid black;
+    padding: 1rem;
+   
+}
